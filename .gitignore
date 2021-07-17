@@ -1,0 +1,5 @@
+# Project exclude paths
+/.idea/
+/out/
+/Task9.iml
+/target/
